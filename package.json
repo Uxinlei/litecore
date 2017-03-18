@@ -87,9 +87,9 @@
   },
   "dependencies": {
     "litecore-lib": "^0.13.19",
-    "litecore-node": "^3.1.4",
-    "insight-api": "^0.4.0",
-    "insight-ui": "^0.4.0"
+    "litecore-node": "git://github.com/litecoin-project/litecore-node#bf3daab860acf670383ff0bd1dec0e82e3705439",
+    "insight-api": "git://github.com/litecoin-project/insight-api#d87ada3c49f34c19e41ceb5325abba4ad83aa9ae",
+    "insight-ui": "git://github.com/litecoin-project/insight-ui#6c8ae1d83758814316348da0b441fbf70f3e8b13"
   },
   "license": "MIT",
   "devDependencies": {
